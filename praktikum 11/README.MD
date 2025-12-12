@@ -14,6 +14,7 @@ Class NotificationManager menangani terlalu banyak tanggung jawab sekaligus, yai
 - Menjalankan logika pengiriman pesan
 - Menampilkan hasil notifikasi
 - Melakukan validasi tipe notifikasi
+
 Kenapa melanggar?<br>
 SRP mengatakan class hanya boleh memiliki satu alasan untuk berubah.<br>
 Pada kasus ini:<br>
