@@ -39,7 +39,6 @@ elif notif_type == "whatsapp": ...
 
 Kenapa melanggar?
 OCP menyatakan bahwa:
-
 Sistem harus terbuka untuk ditambah, tetapi tertutup terhadap modifikasi.
 
 Artinya jika ingin menambah fitur, kita tidak boleh mengubah kode lama.
